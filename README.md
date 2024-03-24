@@ -1,10 +1,10 @@
 # Hello World! 👋
 
-I'm [Your Name], a passionate and ambitious software developer with a flair for crafting innovative solutions. As a recent graduate, I bring fresh perspectives and a solid foundation in various technologies to the table.
+I'm Karra Teja, a passionate and ambitious React developer with a flair for crafting innovative solutions. As a recent graduate, I bring fresh perspectives and a solid foundation in various technologies to the table.
 
 ## 💻 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Java
+- **Languages:** HTML, CSS, JavaScript, 
 - **Frontend:** React.js
 - **Backend:** Node.js
 - **Database:** SQL
@@ -24,7 +24,5 @@ I'm [Your Name], a passionate and ambitious software developer with a flair for 
 ## 🤝 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karra-teja-13226a251)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
 
 I'm excited about the journey ahead and looking forward to connecting with fellow developers, learning, and contributing to the world of technology. Let's code and create together! 🚀
